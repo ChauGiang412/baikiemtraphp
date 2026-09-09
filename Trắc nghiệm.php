@@ -1,0 +1,5 @@
+Câu 1: Chọn C: "PHP: Hypertext Preprocessor"
+Câu 2: Chọn B: "echo()"
+Câu 3: Chọn A: "$string = "Hello, World";"
+Câu 4: Chọn B: "strlen()"
+Câu 5: Chọn D: "is_numeric()"
