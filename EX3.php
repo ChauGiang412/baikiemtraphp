@@ -4,7 +4,7 @@ function inHinhChuNhat($chieuRong, $chieuCao) {
         for ($j = 0; $j < $chieuRong; $j++) {
             echo "*";
         }
-        echo "\n";
+        echo "<br>";
     }
 }
 inHinhChuNhat(5, 3);
