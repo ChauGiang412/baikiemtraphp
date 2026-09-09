@@ -1,12 +1,11 @@
 <?php
-function inhinhchunhat ($chieurong, $chieucao)
-{
-    for ($i = 1; $i <= $chieucao; $i++) {
-        for ($j = 1; $j <= $chieurong; $j++) {
-            echo "* ";
+function inHinhChuNhat($chieuRong, $chieuCao) {
+    for ($i = 0; $i < $chieuCao; $i++) {
+        for ($j = 0; $j < $chieuRong; $j++) {
+            echo "*";
         }
         echo "\n";
     }
 }
-inhinhchunhat(5,3);
+inHinhChuNhat(5, 3);
 ?>
